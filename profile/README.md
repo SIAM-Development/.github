@@ -1,4 +1,2 @@
-A collaboration with an amazing team mate.
-
-Producing financial scanners & tools, as well as various data aggregators and APIs. 
-Experimentation is also on the menu.
+## An Open Source Initiative by _SIAM Trade LLC_
+_This Organization is responsible for the Research & Development efforts of the **SIAM DAO Community**. _
